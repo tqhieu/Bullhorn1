@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<server port="8080">
+  <module context="ServletDBExample" name="ServletDBExample" path="/home/oracle/workspace3/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/ServletDBExample" type="j2ee"/>
+</server>

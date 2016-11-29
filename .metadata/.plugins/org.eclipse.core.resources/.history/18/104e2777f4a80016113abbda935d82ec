@@ -1,0 +1,17 @@
+
+public class Cat extends Animal {
+	public Cat (){
+		System.out.println("Now I am cat");
+		}
+	@Override
+	public String sleep(){
+		return "CccccA cat sleep...";
+	}
+	@Override
+	public String eat(){
+		return "CccccA cat eats...";
+	}
+	public String purr(){
+		return "A cat purrs....";
+	}
+	}
