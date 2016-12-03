@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [03/Dec/2016:08:55:42 -0500] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [03/Dec/2016:08:55:43 -0500] "GET /Bullhonr1/home.jsp HTTP/1.1" 200 3020
+0:0:0:0:0:0:0:1 - - [03/Dec/2016:08:55:43 -0500] "GET /Bullhonr1/styles/darkly.bootstrap.min.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [03/Dec/2016:08:55:43 -0500] "GET /Bullhonr1/styles/bullhorn.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [03/Dec/2016:08:55:43 -0500] "GET /Bullhonr1/images/bullhornlogo50x50.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [03/Dec/2016:08:55:43 -0500] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [03/Dec/2016:09:00:40 -0500] "GET /Bullhonr1/Newsfeed HTTP/1.1" 404 987
+0:0:0:0:0:0:0:1 - - [03/Dec/2016:09:00:44 -0500] "GET /Bullhonr1/home.jsp HTTP/1.1" 200 3020
